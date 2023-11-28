@@ -1,0 +1,7 @@
+.articles__big-column {
+  grid-column: span 9;
+}
+
+.articles__small-column {
+  grid-column: span 3;
+}
